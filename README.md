@@ -3,7 +3,7 @@ Döngü ve goto ifadelere kullanmadan döngü yaratma.
 ## Neden ?
 Base pointer ve Stack pointer kavramlarını anlamak için.
 ## Nasıl ?
-###BEYLE
+![s](http://galeri12.uludagsozluk.com/500/beyle_577203.jpg)
 ```C
 #include <stdio.h>
 void k(void)
